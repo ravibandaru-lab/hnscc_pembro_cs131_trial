@@ -7,8 +7,7 @@
 | [Survival Curve](./Main_Figures/F1) |    | [Demographics Table](./Main_Tables/T1) |
 
 ### Citation
-De Ravin E<sup>#</sup>, Samarah H, Johnson JM, Wise-Draper TM, Bar-Ad V, Tang AL, Luginbuhl A, Zender C (2026). *Neoadjuvant/Adjuvant Pembrolizumab and Surgery + Cesium-131 in Recurrent HNSCC: A Multicenter Phase I/IIb Trial.*. **[Journal]**. ![DOI](https://img.shields.io/badge/DOI-TBD-DDC7A6?style=flat-square)
+De Ravin E<sup>#</sup>, Samarah H, Johnson JM, Wise-Draper TM, Bar-Ad V, Tang AL, Luginbuhl A, Zender C (2026). *Neoadjuvant/Adjuvant Pembrolizumab and Surgery + Cesium-131 in Recurrent HNSCC: A Multicenter Phase I/IIb Trial.*. **[Journal]**. ![DOI](https://img.shields.io/badge/DOI-TBD-D8B085?style=flat-square)
 
 ### Contact
-
 - Emma De Ravin: emma.deravin@jefferson.edu
