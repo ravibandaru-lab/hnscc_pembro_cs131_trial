@@ -1,4 +1,9 @@
-1. Converted the TNM to Tumor Stages based on site of tumor and p16 positivity using the 8th edition AJCC.
-2. Ran hnscc_metadata_summary.R
-3. Transferred the data to T1.ipynb
-4. Converted the .html to .pdf
+1. Converted TNM staging to Clinical Tumor Stage using the 8th edition AJCC, stratified by primary site and p16 status where applicable.
+2. Cleaned and recoded demographic variables in Demographics_HNSCC_CP.csv:
+   - Race: "White or Caucasian" collapsed to "White"
+   - Smoking: recoded to Current smoker, Former smoker, Never smoker (combined Non-smoker + Never smoked), Marijuana, Betel nut
+   - Alcohol: recoded to Current drinker, Former drinker, Non-drinker
+   - Tumor stage column renamed to "Clinical Tumor Stage (Initial Diagnosis)"
+3. Ran hnscc_metadata_summary.R to generate stratified and unstratified summary tables as .md files.
+4. Transferred the data and p-values to T1.ipynb, which builds the formatted great_tables HTML output.
+5. Exported metadata_table.html to T1.png at 600 DPI using Playwright (Chromium).
